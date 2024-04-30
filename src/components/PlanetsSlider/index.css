@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.planet-slider-bg-container {
+  height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+}
